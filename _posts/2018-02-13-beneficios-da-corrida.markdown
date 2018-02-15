@@ -5,7 +5,7 @@ title:  "Os benefícios da corrida em curto, médio e longo prazo."
 date:   2018-02-13 12:25:58
 categories: dicas
 autor: taylsonmartienz
-image: '/images/blog/timerun.jpeg'
+image: '/images/blog/benefiicos.jpeg'
 description: "O esporte melhora o humor, o sono, a resistência física e a saúde. Veja quanto tempo você precisa esperar para colher essas e outras vantagens."
 tags:
 - Dicas

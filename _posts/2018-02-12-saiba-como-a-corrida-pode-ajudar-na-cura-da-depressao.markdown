@@ -4,8 +4,8 @@ layout: post
 title:  "Saiba como a corrida pode ajudar na cura da depressão"
 date:   2018-02-12 12:25:58
 categories: dicas
-autor: taylsonmartienz
-image: '/images/blog/timerun.jpeg'
+autor: taylsonmartinez
+image: '/images/blog/depressao.jpeg'
 description: "A psicóloga Priscilla Gianneschi, explica tudo sobre a relação entre a corrida e o distúrbio cerebral da depressão."
 tags:
 - Dicas

@@ -5,7 +5,7 @@ title:  "Conheça os benefícios de treinar com uma assessoria esportiva"
 date:   2018-02-14 12:25:58
 categories: dicas
 autor: taylsonmartienz
-image: '/images/blog/01.jpg'
+image: '/images/blog/assessoria.jpeg'
 description: "A evolução de um atleta na corrida é gradual e depende da sua dedicação aos treinos. Por isso, a ajuda de um profissional de educação física pode ajudar, ainda mais, um corredor a se desenvolver no esporte. Ao entrar para uma assessoria esportiva, a pessoa terá uma série de benefícios e só tende a melhorar."
 tags:
 - Dicas

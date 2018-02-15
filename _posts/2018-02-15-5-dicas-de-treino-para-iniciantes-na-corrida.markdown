@@ -5,7 +5,7 @@ title:  "5 dicas de treino para iniciantes na corrida"
 date:   2018-02-15 12:25:58
 categories: dicas
 autor: taylsonmartienz
-image: '/images/blog/timerun.jpeg'
+image: '/images/blog/5dicas.jpeg'
 description: "Todo começo é difícil e com o esporte não é diferente. Iniciantes na corrida costumam ter dúvidas de todo o tipo, mas algumas das mais frequentes estão relacionadas aos treinos. É só sair correndo? Tem um jeito certo de respirar? Preciso ir na academia?"
 tags:
 - Dicas
@@ -16,8 +16,7 @@ Todo começo é difícil e com o esporte não é diferente. Iniciantes na corrid
 
 Antes de começar a debater pace, melhores maratonas, qual o melhor tênis, o que comer no pré-treino, entre outras questões que alguns corredores experientes tratam com grande importância, é bom ficar atento a alguns pontos que devem te fazer ter uma vida mais longeva e proveitosa em treinos e provas.
 
-####Dicas de treino para iniciantes na corrida
-
+#### Dicas de treino para iniciantes na corrida
 
 #####Não esqueça dos braços
 Os braços são tão importantes quanto as pernas na hora de correr. Parados demais, diminuem a mobilidade e atrapalham a postura; balançando demais, ou muito na frente do corpo, impedem que você alcance a melhor forma de correr. Ou seja, braços de corredor se movimentam, funcionam como pêndulos e ajudam o corpo a se impulsionar para a frente. Então, se você quer começar a correr: não se esqueça dos braços. 
