@@ -1,15 +1,73 @@
 ---
 layout: default
 ---
-<div class="post">
+<!--=================================
+ Blog-->
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<section class="blog blog-single white-bg page-section-ptb">
+  <div class="container">
+    <div class="row">
+<!-- ========================== -->
+   <div class="col-lg-12 col-md-12">
+       <div class="blog-entry mb-10">
+            <div class="entry-image clearfix">
+              <img class="img-responsive" src="{{page.image}}" alt="">
+          </div>
+          <div class="blog-detail">
+              <div class="entry-meta mb-10">
+                  <ul>
+                      <li><i class="fa fa-calendar-o"></i> {{ page.date | date: "%b %-d, %Y" }}</li>
+                  </ul>
+              </div>
+              <div class="entry-content">
+              	<h1>{{page.title}}</h1>
+                  {{content}}
+              </div>
+          </div>
+       </div>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+<!-- ================================================ -->
+         <div class="blog-entry entry-content mt-20 mb-30 post-1 clearfix">
+           <p></p>
+             
+           <div class="entry-share clearfix">
+                 <div class="tags">
+                    <h5>Tags:</h5>
+                    {% for tag in page.tags %}
+						<li><a href="/tags/#{{tag}}">{{ tag }}</a></li>
+					{% endfor %}
+                </div>
+                  <div class="social list-style-none pull-right mt-10">
+                      <strong>Share : </strong>
+                      <ul>
+                          <li>
+                              <a href="#"> <i class="fa fa-facebook"></i> </a>
+                          </li>
+                          <li>
+                              <a href="#"> <i class="fa fa-twitter"></i> </a>
+                          </li>
+                          <li>
+                              <a href="#"> <i class="fa fa-pinterest-p"></i> </a>
+                          </li>
+                          <li>
+                              <a href="#"> <i class="fa fa-dribbble"></i> </a>
+                          </li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
 
-</div>
+
+ <!-- ================================================ -->
+  <div class="blog-comments mt-40">
+      {% include disqus.html %}
+  </div>
+ <!-- ================================================ -->
+ <!-- ================================================ -->
+     </div> 
+    </div>
+   </div>
+  </section>
+ 
+<!--=================================
+ Blog-->
