@@ -14,21 +14,6 @@ tags:
 
 A depressão é um estado de adoecimento psíquico que leva a uma alteração do estado de humor do diagnosticado, seus familiares e pessoas próximas. A pessoa doente apresenta dificuldades nos aspectos sociais, ocupacionais e comportamentais, que pode se manifestar em episódios depressivos sejam eles isolados ou recorrentes.
 
-Conheça indicações da depressão, lembrando que o diagnóstico correto só pode ser realizado por um médico psiquiatra/psicólogo:
-
-* Dificuldade na circulação de neurotransmissores do prazer: dopamina, serotonina e noradrenalina
-* Alterações hormonais bruscas
-* Redução do humor
-* Diminuição do prazer
-* Insônia ou Hipersonia
-* Redução ou aumento do apetite excessivos
-* Alteração de peso
-* Diminuição da concentração
-* Fadiga excessiva
-* Sensação de insegurança e culpa
-* Perda de libido
-
-
 ####Descubra seis benefícios da corrida na cura da depressão
 
 1 - Dentre os benefícios psicológicos pode-se citar o AUMENTO DO FOCO, da atenção e da concentração - o que permite melhor raciocínio em situações de tomada de decisão
