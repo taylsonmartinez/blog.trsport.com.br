@@ -28,6 +28,7 @@ Conheça indicações da depressão, lembrando que o diagnóstico correto só po
 * Sensação de insegurança e culpa
 * Perda de libido
 
+
 ####Descubra seis benefícios da corrida na cura da depressão
 
 1 - Dentre os benefícios psicológicos pode-se citar o AUMENTO DO FOCO, da atenção e da concentração - o que permite melhor raciocínio em situações de tomada de decisão
