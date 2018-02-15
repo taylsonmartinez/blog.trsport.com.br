@@ -11,6 +11,7 @@ tags:
 - Dicas
 - Assessoria
 ---
+
 A depressão é um estado de adoecimento psíquico que leva a uma alteração do estado de humor do diagnosticado, seus familiares e pessoas próximas. A pessoa doente apresenta dificuldades nos aspectos sociais, ocupacionais e comportamentais, que pode se manifestar em episódios depressivos sejam eles isolados ou recorrentes.
 
 Conheça indicações da depressão, lembrando que o diagnóstico correto só pode ser realizado por um médico psiquiatra/psicólogo:
@@ -51,6 +52,6 @@ Indo além do convencional – medicação e psicoterapia – também é indicad
 
 Gostou? Não se esqueça de compartilhar com seus amigos para que eles também conheçam os benefícios de se manter sempre ativo! 😉
 
-Fonte: Priscilla Gianneschi Navarro, formada em Psicologia do Esporte e do Exercício pela Universidade Guarulhos. [Estudo]: The Neurogenesis theory of depression and a little guy called CREB 
+Fonte: Priscilla Gianneschi Navarro, formada em Psicologia do Esporte e do Exercício pela Universidade Guarulhos. [Link]
 
-[Estudo]:      https://sportlife.com.br/corrida-depressao/
+[Link]:      https://sportlife.com.br/corrida-depressao/
