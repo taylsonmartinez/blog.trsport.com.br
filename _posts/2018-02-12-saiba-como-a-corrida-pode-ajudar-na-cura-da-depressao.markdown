@@ -14,7 +14,7 @@ tags:
 
 A depressão é um estado de adoecimento psíquico que leva a uma alteração do estado de humor do diagnosticado, seus familiares e pessoas próximas. A pessoa doente apresenta dificuldades nos aspectos sociais, ocupacionais e comportamentais, que pode se manifestar em episódios depressivos sejam eles isolados ou recorrentes.
 
-####Descubra seis benefícios da corrida na cura da depressão
+#### Descubra seis benefícios da corrida na cura da depressão
 
 1 - Dentre os benefícios psicológicos pode-se citar o AUMENTO DO FOCO, da atenção e da concentração - o que permite melhor raciocínio em situações de tomada de decisão
 
@@ -28,11 +28,11 @@ A depressão é um estado de adoecimento psíquico que leva a uma alteração do
 
 6 - Um estudo feito em 2010, mostrou que este fenômeno acontece após uma atividade física AERÓBIA, sendo aquela sensação de renovação mental que sentimos após a atividade. Isso acontece, pois a corrida ou qualquer outra atividade aeróbia, estimula a produção de novos neurônios e estes melhoram a memória, concentração, foco e decisões.
 
-####Causas
+#### Causas
 
 A depressão pode ter causa exógena (variáveis do meio sócio relacional) ou endógena (variáveis bioquímicas e fisiológicas). No caso de causa endógena, a pessoa pode ser tratada com medicamentos e psicoterapia. Já na causa exógena, dependendo do contexto e sintomas, pode se perceber melhora com o uso de terapias alternativas.
 
-####Tratamentos
+#### Tratamentos
 
 Indo além do convencional – medicação e psicoterapia – também é indicado a prática de esportes físicos com o objetivo de proporcionar benefícios físicos e mentais. “Evite também o uso de substâncias psicoativas como medicações controladas, consumo de álcool e drogas. Elas podem favorecer ou até aumentar os sintomas depressivos”, explica a psicóloga.
 
